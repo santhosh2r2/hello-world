@@ -1,11 +1,19 @@
 {
   "name": "@santhosh2r2/hello-world",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "npm package test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Santhosh Ramesh",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://myubuntu/root/npm-hello-world.git"
+  },
+  "keywords": [
+    "hello",
+    "greeting"
+  ]
 }

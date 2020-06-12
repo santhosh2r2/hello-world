@@ -1,5 +1,6 @@
 # Instruction
 
+## exports from module
 ```
 greeting = "Hi from Santhosh!"
 ```

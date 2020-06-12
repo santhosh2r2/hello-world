@@ -1,11 +1,11 @@
 # Instruction
 
-## exports from module
+## Exports from module
 ```
 greeting = "Hi from Santhosh!"
 ```
 
-Example using express-js
+## Example using express-js
 
 ```
 mkdir test-app && cd test-app
@@ -15,9 +15,9 @@ touch index.js
 node index.js
 ```
 
-`navigate to http://localhost:3000`
+navigate to http://localhost:3000
 
-## contents of index.js
+## Contents of index.js
 
 ```
 const express = require("express");

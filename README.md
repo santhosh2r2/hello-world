@@ -10,12 +10,14 @@ Example using express-js
 ```
 mkdir test-app && cd test-app
 npm install express @santhosh2r2/hello-world --save
+touch index.js
+## copy the contents of index.js
 node index.js
 ```
 
 `navigate to http://localhost:3000`
 
-**contents of index.js**
+## contents of index.js
 
 ```
 const express = require("express");

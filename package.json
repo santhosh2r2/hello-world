@@ -1,6 +1,6 @@
 {
   "name": "@santhosh2r2/hello-world",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "npm package test",
   "main": "index.js",
   "scripts": {
